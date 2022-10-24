@@ -12,7 +12,8 @@
 - [DPRK](https://www.shodan.io/search?query=Country%3Akp)
 - [Darpa.mil](https://www.shodan.io/search?query=darpa.mil)
 
-## Useful Things
+## Miscellaneous
 - [Exposed Spiderfoot Panels](https://www.shodan.io/search?query=spiderfoot)
+- [Crypto Miners](https://www.shodan.io/search?query=hashrate)
 
 
